@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://0xtob.github.io/al-folio/sitemap.xml
